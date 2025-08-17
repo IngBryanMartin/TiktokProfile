@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TiktokProfile/static/css/main.1f0df13c.css",
-    "main.js": "/TiktokProfile/static/js/main.c6477617.js",
+    "main.js": "/TiktokProfile/static/js/main.23267cd9.js",
     "index.html": "/TiktokProfile/index.html",
     "main.1f0df13c.css.map": "/TiktokProfile/static/css/main.1f0df13c.css.map",
-    "main.c6477617.js.map": "/TiktokProfile/static/js/main.c6477617.js.map"
+    "main.23267cd9.js.map": "/TiktokProfile/static/js/main.23267cd9.js.map"
   },
   "entrypoints": [
     "static/css/main.1f0df13c.css",
-    "static/js/main.c6477617.js"
+    "static/js/main.23267cd9.js"
   ]
 }
